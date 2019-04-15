@@ -3,8 +3,8 @@ import os
 
 
 class Contact:
-    # сделал ввод данных, хотел через args получать доп номера
-    # но почему-то он не хочет открывать их
+
+    
     def __init__(self, name, second_name, phone_number, elected=False, *number, **data):
         self.name = name
         self.second_name = second_name
