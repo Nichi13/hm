@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Вася",
+        "second_name": "Обломов",
+        "phone_number": "+7529798456",
+        "telegram": "@Obl",
+        "email": "obl@gmil.com",
+        "elected": true
+    },
+    {
+        "name": "Филипп",
+        "second_name": "Годунов",
+        "phone_number": "+7984561",
+        "telegram": "@God",
+        "elected": false
+    }
+]
